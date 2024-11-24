@@ -1,0 +1,23 @@
+{
+    "alunos": [
+        {
+            "id":1,
+            "name": "Gabriel Soares",
+            "email": "gabriel@gmail.com",
+            "curso": "Ti"
+        },
+        {
+            "id":2,
+            "name": "Higor Souza",
+            "email": "higor@gmail.com",
+            "curso": "Ti"
+
+        },
+        {
+            "id":3,
+            "name": "Ticiano Tiberio",
+            "email": "tiberio@gmail.com",
+            "curso": "Ti"
+        }
+    ]
+}
